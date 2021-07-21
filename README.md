@@ -38,7 +38,7 @@ Patients will be able to easily upload and securely store their updated medical 
 * IBM’s Hyperledger Framework for Blockchain
 * Hyperledger Composer based on Fabric Architecture
 * Hyperledger Playground for Blockchain
-* HTML, CSS, Ajax & JQuery for Website (FrontEnd)
+* HTML, CSS, JavaScript, Ajax & JQuery for Website (FrontEnd)
 
 # Instructions to run the API Backend
 - Clone the repo
